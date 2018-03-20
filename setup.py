@@ -140,7 +140,7 @@ setup(
         'numpy>=1.10, <2',
         'scipy>=0.15.1, <1',
         'cython>=0.23.4, <1',
-        'genometools>=0.2, <0.3',
+        'genometools>=0.2, <0.4',
         'configparser>=3.5, <4',
         # 'future >= future-0.15.3.dev0, <1',
     ],
